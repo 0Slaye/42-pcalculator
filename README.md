@@ -9,7 +9,7 @@ Hi! Welcome on PCalculator. This is a program that calculate your level and the 
 To install PCalculator you need to clone the repository in your 'home' directory.
 
 ```bash
-  https://github.com/0Slaye/pcalculator.git
+  cd && git clone https://github.com/0Slaye/pcalculator.git
 ```
 Next you can start the 'setup.sh' script that will add PCalculator as an alias in your .myzshrc.
 ```bash
