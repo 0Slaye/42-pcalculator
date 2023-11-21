@@ -6,7 +6,7 @@
 /*   By: uwywijas <uwywijas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/21 15:53:00 by uwywijas          #+#    #+#             */
-/*   Updated: 2023/11/21 19:07:40 by uwywijas         ###   ########.fr       */
+/*   Updated: 2023/11/21 19:19:50 by uwywijas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,6 +64,12 @@ float	ft_getlvl(int gxp)
 	return (result);
 }
 
+int	ft_error(void)
+{
+	printf("\n%s%sSomething bad appened.%s\n", BOLD, RED, RESET);
+	return (-1);
+}
+
 int	main(void)
 {
 	float	current_lvl;
@@ -80,6 +86,8 @@ int	main(void)
 	ft_finput("Current level [0.0/10.0]: ", &current_lvl);
 	ft_finput("Project xp [0/63000]: ", &project_xp);
 	ft_dinput("Bonus [0/1]: ", &is_bonus);
+	if ((current_lvl < 0 || current_lvl > 10)|| (project_xp < 0 || project_xp > 63000) || (is_bonus < 0 || is_bonus > 1))
+		return (ft_error());
 	current_xp = ft_getxp(current_lvl);
 	if (is_bonus)
 		project_xp += project_xp * 0.25;
