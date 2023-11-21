@@ -29,6 +29,10 @@ To correctly use PCalculator you will need to give somes specials informations.
   Bonus [0/1]: [0=NO] [1=YES]
 ```
 
+## Resources
+
+[42 Evalutator - Benjaminmerchin](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2)
+
 ## License
 
 [CC0](https://choosealicense.com/licenses/cc0/)
