@@ -26,7 +26,7 @@ To correctly use PCalculator you will need to give somes specials informations.
   Project xp [0/63000]: [PROJECT XP]
 ```
 ```bash
-  Bonus [0/1]: [1=YES] [0=NO]
+  Bonus [0/1]: [0=NO] [1=YES]
 ```
 
 ## License
