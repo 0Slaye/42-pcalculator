@@ -2,8 +2,8 @@
 
 Hi! Welcome on PCalculator. This is a program that calculate your level and the blackhole you will receive after pushing a project.
 
-![alt text](https://github.com/0Slaye/pcalculator/tree/main/assets/header.png)
-![alt text](https://github.com/0Slaye/pcalculator/tree/main/assets/use.png)
+![alt text](https://github.com/0Slaye/pcalculator/tree/main/assets/header.png?raw=true)
+![alt text](https://github.com/0Slaye/pcalculator/tree/main/assets/use.png?raw=true)
 
 ## Install
 
