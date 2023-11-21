@@ -11,7 +11,7 @@ To install PCalculator you need to clone the repository in your 'home' directory
 ```bash
   cd && git clone https://github.com/0Slaye/pcalculator.git
 ```
-Next you can start the 'setup.sh' script that will add PCalculator as an alias in your .myzshrc.
+Next you can start the 'setup.sh' script that will add PCalculator as an alias in your '.myzshrc'.
 ```bash
   cd pcalculator && ./setup.sh
 ```
