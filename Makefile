@@ -1,7 +1,7 @@
-NAME = bhcalculator
+NAME = pcalculator
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror -lm
-SRC = ./srcs/bhcalculator.c
+SRC = ./srcs/pcalculator.c
 INCL = ./includes
 OBJ = $(SRC:.c=.o)
 

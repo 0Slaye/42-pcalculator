@@ -1,21 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   bhcalculator.h                                     :+:      :+:    :+:   */
+/*   pcalculator.h                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: uwywijas <uwywijas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/21 15:52:58 by uwywijas          #+#    #+#             */
-/*   Updated: 2023/11/21 17:11:31 by uwywijas         ###   ########.fr       */
+/*   Updated: 2023/11/21 19:02:52 by uwywijas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef BHCALCULATOR_H
-# define BHCALCULATOR_H
-
-# ifndef HEADER
-#  define HEADER "BHCalculator\n\n"
-# endif
+#ifndef PCALCULATOR_H
+# define PCALCULATOR_H
 
 # include <math.h>
 # include <stdio.h>
