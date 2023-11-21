@@ -1,4 +1,4 @@
-NAME = pcalculator
+NAME = exec
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror -lm
 SRC = ./srcs/pcalculator.c
