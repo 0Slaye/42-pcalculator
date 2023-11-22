@@ -1,8 +1,6 @@
-# PCalculator
+![Banner](assets/banner.png)
 
 Hi! Welcome on PCalculator. This is a program that calculate your level and the blackhole you will receive after pushing a project.
-
-![Screenshot](assets/screenshot.png)
 
 ## Install
 
@@ -28,6 +26,8 @@ To correctly use PCalculator you will need to give somes specials informations.
   Project xp [0/63000]: [PROJECT XP] # 462
   Bonus [0/1]: [0=NO] [1=YES] # 1
 ```
+
+![Screenshot](assets/screenshot.png)
 
 ## Resources
 
