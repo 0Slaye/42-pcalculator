@@ -1,6 +1,6 @@
 ![Banner](assets/banner.png)
 
-Hi! Welcome on PCalculator. This program calcul your level and blackhole you will receive after pushing a project.
+Hi! Welcome on PCalculator. This program calcul your level and blackhole you will get after pushing a project.
 
 ## Install
 
