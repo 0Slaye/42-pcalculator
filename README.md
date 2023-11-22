@@ -15,7 +15,7 @@ Next you can start the 'setup.sh' script that will add PCalculator as an alias i
 ```
 Finaly, don't forget to reload your '.zshrc' with this command.
 ```bash
-  source .zshrc
+  cd .. && source .zshrc
 ```
 
 ## How to use
