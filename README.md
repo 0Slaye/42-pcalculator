@@ -22,9 +22,9 @@ Finaly, don't forget to reload your '.zshrc' with this command.
 
 To correctly use PCalculator you will need to give somes specials informations.
 ```bash
-  Current level [0.0/10.0]: [YOUR LEVEL] # 0
-  Project xp [0/63000]: [PROJECT XP] # 462
-  Bonus [0/1]: [0=NO] [1=YES] # 1
+  Current level [0.0/10.0]: [YOUR LEVEL] # float
+  Project xp [0/63000]: [PROJECT XP] # int
+  Bonus [0/1]: [0=NO] [1=YES] # int
 ```
 
 ![Screenshot](assets/screenshot.png)
