@@ -36,4 +36,4 @@ Bonus [0/1]: [0=NO] [1=YES] # int
 
 ## License
 
-[CC0](https://choosealicense.com/licenses/cc0/)
+[MIT](https://choosealicense.com/licenses/cc0/)
