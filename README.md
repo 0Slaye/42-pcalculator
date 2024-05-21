@@ -33,7 +33,3 @@ Bonus [0/1]: [0=NO] [1=YES] # int
 ## Resources
 
 [42 Evalutator - Benjaminmerchin](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/cc0/)
