@@ -16,7 +16,6 @@ Next you can add pcalculator as an alias in your '.bashrc' or any 'rc' file (the
 
 > [!NOTE]
 > Don't forget to source your 'bashrc' or any 'rc' file in wich you added the alias
-```
 
 ## How to use
 
