@@ -92,7 +92,7 @@ int	main(void)
 	if (is_bonus)
 		project_xp += project_xp * 0.25;
 	result = (powf(((current_xp + project_xp) / 49980), 0.45) - powf((current_xp / 49980), 0.45)) * 483;
-	printf("\n%sYou will be lvl %s%f%s\n", BOLD, GREEN, ft_getlvl(current_xp + project_xp), RESET);
+	printf("\n%sYou will be lvl %s%f%s.\n", BOLD, GREEN, ft_getlvl(current_xp + project_xp), RESET);
 	printf("%sYou will earn %s%d%s%s days of blackhole.%s\n", BOLD, GREEN, result, RESET, BOLD, RESET);
 	return (0);
 }
