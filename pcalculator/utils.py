@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    utils.py                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: slaye <slaye@student.42.fr>                +#+  +:+       +#+         #
+#    By: uwywijas <uwywijas@student.42mulhouse.f    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/05/29 21:44:22 by slaye             #+#    #+#              #
-#    Updated: 2024/05/29 21:57:25 by slaye            ###   ########.fr        #
+#    Updated: 2024/09/13 08:02:24 by uwywijas         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -24,7 +24,7 @@ def	sinput(value:str):
 	result = 0;
 
 	try:
-		result = int(input(f"{value}: "))
+		result = float(input(f"{value}: "))
 	except:
 		return (-1)
 	return (result)
